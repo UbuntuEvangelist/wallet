@@ -1,0 +1,13 @@
+[02-Jun-2018 08:59:00 America/New_York] PHP Warning:  symlink(): File exists in /home/scrizrea/pagador.scriptdemo.website/symlink.php on line 2
+[02-Jun-2018 08:59:00 America/New_York] PHP Stack trace:
+[02-Jun-2018 08:59:00 America/New_York] PHP   1. {main}() /home/scrizrea/pagador.scriptdemo.website/symlink.php:0
+[02-Jun-2018 08:59:00 America/New_York] PHP   2. symlink() /home/scrizrea/pagador.scriptdemo.website/symlink.php:2
+[02-Jun-2018 09:27:58 America/New_York] PHP Warning:  symlink(): File exists in /home/scrizrea/pagador.scriptdemo.website/symlink.php on line 2
+[02-Jun-2018 09:27:58 America/New_York] PHP Stack trace:
+[02-Jun-2018 09:27:58 America/New_York] PHP   1. {main}() /home/scrizrea/pagador.scriptdemo.website/symlink.php:0
+[02-Jun-2018 09:27:58 America/New_York] PHP   2. symlink() /home/scrizrea/pagador.scriptdemo.website/symlink.php:2
+[02-Jun-2018 09:32:24 America/New_York] PHP Warning:  symlink(): File exists in /home/scrizrea/pagador.scriptdemo.website/symlink.php on line 2
+[02-Jun-2018 09:32:24 America/New_York] PHP Stack trace:
+[02-Jun-2018 09:32:24 America/New_York] PHP   1. {main}() /home/scrizrea/pagador.scriptdemo.website/symlink.php:0
+[02-Jun-2018 09:32:24 America/New_York] PHP   2. symlink() /home/scrizrea/pagador.scriptdemo.website/symlink.php:2
+[12-Jul-2018 13:18:11 America/New_York] PHP Warning:  symlink(): File exists in /home/scrizrea/pagador.scriptdemo.website/symlink.php on line 2

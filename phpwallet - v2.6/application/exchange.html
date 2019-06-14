@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta name="theme-color" content="blue">
+	<meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no,  minimal-ui' />
+	<link href="https://unpkg.com/@ionic/core@latest/css/ionic.bundle.css" rel="stylesheet">
+	<script src="https://unpkg.com/@ionic/core@latest/dist/ionic.js"></script>
+	<style>
+		.header-md:after{
+			 background: none; 
+		}
+	</style>
+</head>
+<body style="background-color:#000;">
+<ion-app background="primary">
+	<ion-header mode="ios">
+		<ion-toolbar  mode="ios">
+		  <ion-title color="primary">Exchange Currencys</ion-title>
+		  <!-- <ion-buttons slot="primary">
+		    <ion-button >
+		      <ion-icon slot="icon-only" color="primary" name="more"></ion-icon>
+		    </ion-button>
+		  </ion-buttons> -->
+		</ion-toolbar>
+	</ion-header>
+	<ion-content>
+		<ion-tabs mode="ios">
+			<ion-tab tab="exchange">
+				<ion-content >
+				<ion-card  margin-top color="light" >
+					<ion-card-header >
+						<ion-card-subtitle>
+							<ion-label float-left>Wallet Balance</ion-label>
+						</ion-card-subtitle>
+						<ion-select  value="us dollar" float-right style="padding-top: 0">
+					        <ion-select-option value="us dollar">us dollar</ion-select-option>
+					        <ion-select-option value="blonde">Blonde</ion-select-option>
+					        <ion-select-option value="black">Black</ion-select-option>
+					        <ion-select-option value="red">Red</ion-select-option>
+					    </ion-select>
+					</ion-card-header>
+					<ion-item  lines="none" margin-bottom color="light">
+					<ion-label>
+						<ion-card-subtitle  style="color:#73a6ff">USD</ion-card-subtitle>
+						<ion-card-title>165.480.00 $</ion-card-title>
+					</ion-label>
+					</ion-item>
+					
+					<ion-card-body>
+						<ion-card  margin-top color="primary">
+							<ion-card-header>
+								<ion-card-subtitle>
+									<ion-label float-left>Wallet Balance</ion-label>
+								</ion-card-subtitle>
+								<ion-select  value="us dollar" float-right style="padding-top: 0">
+							        <ion-select-option value="us dollar">us dollar</ion-select-option>
+							        <ion-select-option value="blonde">Blonde</ion-select-option>
+							        <ion-select-option value="black">Black</ion-select-option>
+							        <ion-select-option value="red">Red</ion-select-option>
+							    </ion-select>
+							</ion-card-header>
+							<ion-item  color="primary" lines="none" margin-bottom>
+							<ion-label>
+								<ion-card-subtitle  style="color:#73a6ff">Bitcoins</ion-card-subtitle>
+								<ion-card-title>165.480.00 BTC</ion-card-title>
+								<ion-card-title color="success"><ion-text color="secondary">+ 16548000 BTC</ion-text></ion-card-title>
+							</ion-label>
+							
+							</ion-item>
+						</ion-card>
+					</ion-card-body>
+						
+				</ion-card>
+				<ion-grid>
+					<ion-row padding>
+						<ion-col>
+							<ion-item >
+								<ion-label position="floating">Amount to be exchanged to bitcoins</ion-label>
+								<ion-input type="number"></ion-input>
+							</ion-item>
+						</ion-col>
+					</ion-row>	
+					<ion-row >
+						<ion-col>
+							<ion-button  color="primary" float-right href="http://google.com" >
+								<ion-icon name="swap" slot="start"></ion-icon>
+								Exchange
+							</ion-button>
+						</ion-col>
+					</ion-row>
+				</ion-grid>
+					
+				</ion-content>
+			</ion-tab>
+			<ion-tab tab="settings">Settings Content</ion-tab>
+
+			<ion-tab-bar slot="bottom">
+
+				<ion-tab-button href="http://google.com">
+				  <ion-label>Transactions</ion-label>
+				  <ion-icon name="paper"></ion-icon>
+				  <ion-badge>6</ion-badge>
+				</ion-tab-button>
+
+				<ion-tab-button href="http://google.com"  >
+				  <ion-label>Send</ion-label>
+				  <ion-icon name="paper-plane" mode="ios"></ion-icon>
+				</ion-tab-button>
+
+				<ion-tab-button tab="exchange">
+					<ion-label>Exchange</ion-label>
+					<ion-icon name="repeat"></ion-icon>
+				</ion-tab-button>
+
+				<ion-tab-button>
+					<ion-label>Account</ion-label>
+					<ion-icon name="person"></ion-icon>
+				</ion-tab-button>
+
+			</ion-tab-bar>
+		</ion-tabs>
+		
+	</ion-content>
+</ion-app>	
+</body>
+</html>

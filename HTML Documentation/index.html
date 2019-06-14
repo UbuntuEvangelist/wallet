@@ -1,0 +1,212 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<head lang="en">
+	<meta http-equiv="content-type" content="text/html;charset=utf-8">
+	<title>phpWallet Documentation</title>
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="assets/blueprint-css/screen.css" type="text/css" media="screen, projection">
+	<link rel="stylesheet" href="assets/blueprint-css/print.css" type="text/css" media="print">
+	<!--[if lt IE 8]><link rel="stylesheet" href="assets/blueprint-css/ie.css" type="text/css" media="screen, projection"><![endif]-->
+	<link rel="stylesheet" href="assets/blueprint-css/plugins/fancy-type/screen.css" type="text/css" media="screen, projection">
+	<style type="text/css" media="screen">
+		p, table, hr, .box { margin-bottom:25px; }
+		.box p { margin-bottom:10px; }
+		a {
+		    color: #d9534f;
+		    text-decoration: underline;
+		}
+	</style>
+</head>
+
+
+<body style="padding-top:0px;">
+	<hr class="space">
+	<hr class="space">
+	<div class="container">
+		
+		<h3 class="center alt">&ldquo;phpWallet documentation by &ldquo; Celso Ricardo &rdquo; v2.x.x</h3>
+		
+		
+		<div class="borderTop">
+			<div class="span-6 colborder info prepend-1">
+				<p class="prepend-top">
+					<strong>
+					Created: 13/05/2019<br>
+					By: _celso<br>
+					Email: <a href="mailto:pixelotetm@gmail.com">pixelotetm@gmail.com</a>
+					</strong>
+				</p>
+			</div><!-- end div .span-6 -->		
+	
+			<div class="span-12 last">
+				<p class="prepend-top append-0">Thank you for purchasing my script. If you have any questions that are beyond the scope of this help file, please feel free to email me.</p>
+			</div>
+
+			
+
+			</div><!-- end div .borderTop -->
+		
+		<hr>
+		<div class="">
+			<p>As a  laravel Application that phpWallet is, it is very easy to deploy on a shared hosting or a cpanel environment  as shown in this youtube tutorial <a href="https://www.youtube.com/watch?v=6g8G3YQtQt4"> Deploy Laravel To Shared Hosting The Easy Way </a></p>
+			<p class="prepend-top append-0"><strong> IF YOU DON’T WANT TO GET DOWN AND DIRTY WITH THE TECHNICAL SIDE OF SETTING UP phpWallet ON YOUR SERVER, YOU CAN HIRE ME TO MAKE THE SITE INSTALLATION FOR YOU.</strong></p>
+			<p> Thanks so much!</p>
+		</div>
+		<hr>
+		<h2 id="toc" class="alt">Table of Contents</h2>
+		<ol class="alpha">
+			<li><a href="#htmlStructure">Preparing</a></li>
+			<li><a href="#cssFiles">Installation Process</a></li>
+			<li><a href="#javascript">Configuration </a></li>
+			<li><a href="#admindashboard">Admin Dashboard </a></li>
+			<li><a href="#FAQ">FAQ</a></li>
+		</ol>
+		
+		<hr>
+		
+		<h3 id="htmlStructure"><strong>A) Preparing</strong> - <a href="#toc">top</a></h3>
+		<p>
+			Make sure you have the following:
+		</p>
+		<ol>
+			<li>PHP >= 7.0.0</li>
+			<li>PDO PHP Extension</li>
+			<li>Tokenizer PHP Extension</li>
+			<li>OpenSSL PHP Extension</li>
+			<li>XML PHP Extension</li>
+			<li>Mbstring PHP Extension</li>
+			<li>GD Library</li>
+			<li>CURL Library</li>
+			<li>PHP mod_rewrite enabled</li>
+		</ol>
+		<p>
+			Make sure you have a mysql database already created, and also make sure that the database schema have already been imported.
+		</p>
+		<hr>
+
+		<h3 id="cssFiles"><strong>B) Installation Process</strong> - <a href="#toc">top</a></h3>
+
+		<p>
+			First, let us say that in your hosting server, you have current <strong>/public_html/</strong> directory, which is accessible publicly via web domain, for example:
+		</p>
+		<p class="code">
+			<span style="color: #d9544f">/home/hosting-user/</span>public_html/
+		</p>
+		<p>
+			
+		</p>
+		
+		<p>
+		 upload the file <strong>phpwallet - v2.x.zip</strong> file downloaded from your purshase download page and unzip it.
+		</p>
+		<p>
+			At this point, you can find a <strong>".env"</strong> file in the <strong>/public_html/application/</strong> directory, if not, make sure the option to see hidden files is enabled on your hosting server.
+		</p>
+		<p>
+			Create A new database and database user, make sure to grant all previleges to the new user in the new database. save your DB name, DB user, and DB password to use in the next steps. 
+		</p>
+		<p>
+			Import the file phpWallet.sql to your new database. you can do this from phpmyadmin.
+		</p>
+		<p>
+			Open the <strong>"public_html/application/.env"</strong> file and edit the database information , APP_NAME, APP_URL, and email information. 
+		</p>
+		<p class="code">
+				APP_NAME= <span style="color: #d9544f">phpWallet</span> <br>
+				APP_ENV=local <br>
+				APP_KEY=base64:NY0K0NvBZJKYObAyHI9v90CyQBKFxA8+1rWqETYoAEQ=<br>
+				APP_DEBUG=<span style="color: #d9544f">true</span><br>
+				APP_LOG_LEVEL=debug<br>
+				APP_URL=<span style="color: #d9544f">http://your-domain.com</span><br>
+				<br>
+				DB_CONNECTION=mysql<br>
+				DB_HOST=127.0.0.1<br>
+				DB_PORT=3306<br>
+				DB_DATABASE=<span style="color: #d9544f">Your database name</span><br>
+				DB_USERNAME=<span style="color: #d9544f">Your database user</span><br>
+				DB_PASSWORD=<span style="color: #d9544f">Your database password</span><br>
+				<br>
+				BROADCAST_DRIVER=log<br>
+				CACHE_DRIVER=file<br>
+				SESSION_DRIVER=file<br>
+				QUEUE_DRIVER=sync<br>
+				<br>
+				REDIS_HOST=127.0.0.1<br>
+				REDIS_PASSWORD=null<br>
+				REDIS_PORT=6379<br>
+				<br>
+				MAIL_DRIVER=smtp<br>
+				MAIL_HOST=<span style="color: #d9544f">smtp.mailtrap.io</span><br>
+				MAIL_PORT=<span style="color: #d9544f">2525</span><br>
+				MAIL_USERNAME=<span style="color: #d9544f">null</span><br>
+				MAIL_PASSWORD=<span style="color: #d9544f">null</span><br>
+				MAIL_ENCRYPTION=null<br>
+				<br>
+				PUSHER_APP_ID=<br>
+				PUSHER_APP_KEY=<br>
+				PUSHER_APP_SECRET=<br>
+		</p>
+		
+		
+		<p>
+			Almost done, There is a file in /public_html/ named symlink.php
+		</p>
+		<p>
+			
+		</p>
+		<p class="code">
+			<span style="color: #d9544f">/home/hosting-user/</span>public_html/symlink.php
+		</p>
+		<p>
+			Edit the file with your server file paths. ( see an example below)
+		</p>
+		<p class="code">
+			<input type="text" readonly="" value="<?php" class="code" style="border: 0" ><br>
+			<span style="font-weight: normal !important;">
+			symlink( '<span style="color: #d9544f">/home/hosting-user/</span>public_html/application/storage/app/public' , '<span style="color: #d9544f">/home/hosting-user/</span>public_html/storage' );</span><br>
+			<input type="text" readonly="" value="?>" class="code" style="border: 0" >
+		</p>
+		<p>
+			Now open the recently created script on your brower by going to <strong>http://your-domain.com/symlink.php</strong>.
+		</p>
+		<p>
+			If every thing went well, you should see an blank page. And that means you've done the installation.
+		</p>
+		<hr>
+		
+		<h3 id="admindashboard"><strong>D) Admin Dashboard</strong> - <a href="#toc">top</a></h3>
+		<p>
+			Now that the site is up and running, register a new User to turn him into and admin. 
+		</p>
+		<p>
+			Open your database from your cpanel phpmyadmin, select your database and go to users table.
+		</p>
+		<p>
+			Edit the recently created User. change the column role value from <strong>0 </strong> to <strong>  1</strong>.
+		</p>			
+		<p>
+			Now, back to your website go to <strong>http://your-domain.com/admin</strong>
+		</p>
+		<hr>
+		
+		<h3 id="FAQ"><strong>E) FAQ</strong> - <a href="#toc">top</a></h3>
+			<ul>	
+				<li><strong>Q:</strong> I want to change the website's logo.<br>
+				<strong>A:</strong> You can change the logo simply by replacing the current logo with your new one at <strong>/public_html/logo.png.</strong> </li><br>
+			</ul>
+			<ul>	
+				<li><strong>Q:</strong> How to Enable PayPal Automatic deposits ?<br>
+				<strong>A:</strong> Create a PayPal Bussiness Account and get you API Keys <br><strong>Watch This Video To get The API Keys</strong><a href="https://www.youtube.com/watch?v=Qrk2D6kWjJI">https://www.youtube.com/watch?v=Qrk2D6kWjJI</a><br>Then Open the file <strong>/application/config/paypal.php</strong> and edit with your PayPal API Keys </li><br>
+			</ul>
+		<hr>
+		<p>Once again, thank you so much for purchasing this script. As I said at the beginning, I'd be glad to help you if you have any questions relating to it. and also you might consider visiting the forums and asking your question in the "Item Discussion" section.</p>
+		<p>
+			remember, you can always get in toch for installation service.
+		</p>	
+		
+		<p class="append-bottom alt large"><strong>Celso Ricardo.</strong></p>
+		<p><a href="#toc">Go To Table of Contents</a></p>
+		
+		<hr class="space">
+	</div><!-- end div .container -->
+</body>
+</html>

@@ -1,0 +1,2 @@
+[02-Aug-2018 22:41:23 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/scrizrea/pagador.scriptdemo.website/app/Console/Kernel.php on line 8
+[02-Mar-2019 02:28:04 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/scrizrea/dev.scriptdemo.website/app/Console/Kernel.php on line 8

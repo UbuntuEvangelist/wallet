@@ -1,0 +1,2 @@
+[28-Sep-2018 11:34:07 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Kernel.php on line 7
+[02-Mar-2019 02:28:11 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/scrizrea/dev.scriptdemo.website/app/Http/Kernel.php on line 7
