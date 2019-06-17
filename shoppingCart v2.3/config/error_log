@@ -1,0 +1,84 @@
+[14-Jun-2018 18:09:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/shoppingcart.scriptdemo.website/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/config/app.php on line 16
+[15-Jun-2018 02:19:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/shoppingcart.scriptdemo.website/config/logging.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/config/logging.php on line 18
+[18-Jun-2018 14:27:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/shoppingcart.scriptdemo.website/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/config/filesystems.php on line 16
+[22-Jun-2018 01:02:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/shoppingcart.scriptdemo.website/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/config/mail.php on line 19
+[22-Jun-2018 03:38:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/shoppingcart.scriptdemo.website/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/config/session.php on line 19
+[22-Jun-2018 08:04:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/shoppingcart.scriptdemo.website/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/config/database.php on line 16
+[22-Jun-2018 08:46:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/shoppingcart.scriptdemo.website/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/config/queue.php on line 16
+[22-Jun-2018 11:57:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/shoppingcart.scriptdemo.website/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/config/hashing.php on line 32
+[22-Jun-2018 13:17:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/shoppingcart.scriptdemo.website/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/config/broadcasting.php on line 18
+[22-Jun-2018 21:39:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/shoppingcart.scriptdemo.website/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/config/hashing.php on line 32
+[23-Jun-2018 00:12:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/shoppingcart.scriptdemo.website/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/config/queue.php on line 16
+[24-Jun-2018 02:48:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/shoppingcart.scriptdemo.website/config/hooks.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/config/hooks.php on line 5
+[24-Jun-2018 03:37:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/scrizrea/shoppingcart.scriptdemo.website/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/config/view.php on line 17
+[24-Jun-2018 12:10:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/shoppingcart.scriptdemo.website/config/voyager.php:216
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/config/voyager.php on line 216
+[24-Jun-2018 17:58:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/shoppingcart.scriptdemo.website/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/config/cache.php on line 18
+[24-Jun-2018 21:37:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/scrizrea/shoppingcart.scriptdemo.website/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/config/view.php on line 17
+[25-Jun-2018 05:45:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/shoppingcart.scriptdemo.website/config/voyager.php:216
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/config/voyager.php on line 216
+[26-Jun-2018 12:57:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/shoppingcart.scriptdemo.website/config/voyager-hooks.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/config/voyager-hooks.php on line 5
+[26-Jun-2018 13:00:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/shoppingcart.scriptdemo.website/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/config/services.php on line 18
+[06-Nov-2018 19:30:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/shoppingcart.scriptdemo.website/config/hooks.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/config/hooks.php on line 5
+[13-Nov-2018 14:14:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/shoppingcart.scriptdemo.website/config/shopping_cart.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/config/shopping_cart.php on line 11

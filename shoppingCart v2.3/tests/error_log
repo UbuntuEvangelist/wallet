@@ -1,0 +1,6 @@
+[15-Jun-2018 08:28:03 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/scrizrea/shoppingcart.scriptdemo.website/tests/TestCase.php on line 7
+[15-Jun-2018 08:28:03 America/New_York] PHP Stack trace:
+[15-Jun-2018 08:28:03 America/New_York] PHP   1. {main}() /home/scrizrea/shoppingcart.scriptdemo.website/tests/TestCase.php:0
+[15-Jun-2018 19:43:23 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/scrizrea/shoppingcart.scriptdemo.website/tests/TestCase.php on line 7
+[15-Jun-2018 19:43:23 America/New_York] PHP Stack trace:
+[15-Jun-2018 19:43:23 America/New_York] PHP   1. {main}() /home/scrizrea/shoppingcart.scriptdemo.website/tests/TestCase.php:0

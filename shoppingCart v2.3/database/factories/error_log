@@ -1,0 +1,7 @@
+[16-Jun-2018 09:45:53 America/New_York] PHP Notice:  Undefined variable: factory in /home/scrizrea/shoppingcart.scriptdemo.website/database/factories/UserFactory.php on line 16
+[16-Jun-2018 09:45:53 America/New_York] PHP Stack trace:
+[16-Jun-2018 09:45:53 America/New_York] PHP   1. {main}() /home/scrizrea/shoppingcart.scriptdemo.website/database/factories/UserFactory.php:0
+[16-Jun-2018 09:45:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/scrizrea/shoppingcart.scriptdemo.website/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/database/factories/UserFactory.php on line 16

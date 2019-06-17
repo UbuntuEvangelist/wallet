@@ -1,0 +1,32 @@
+[14-Jun-2018 10:24:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/scrizrea/shoppingcart.scriptdemo.website/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/bootstrap/app.php on line 14
+[14-Jun-2018 18:10:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/scrizrea/shoppingcart.scriptdemo.website/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/bootstrap/app.php on line 14
+[19-Jun-2018 06:54:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/scrizrea/shoppingcart.scriptdemo.website/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/bootstrap/app.php on line 14
+[23-Jun-2018 23:20:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/scrizrea/shoppingcart.scriptdemo.website/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/bootstrap/app.php on line 14
+[25-Jun-2018 02:00:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/scrizrea/shoppingcart.scriptdemo.website/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/bootstrap/app.php on line 14
+[26-Jun-2018 08:23:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/scrizrea/shoppingcart.scriptdemo.website/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/bootstrap/app.php on line 14
+[28-Jun-2018 11:21:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/scrizrea/shoppingcart.scriptdemo.website/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/bootstrap/app.php on line 14
+[14-Nov-2018 18:11:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/scrizrea/shoppingcart.scriptdemo.website/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/bootstrap/app.php on line 14

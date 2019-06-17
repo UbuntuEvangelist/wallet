@@ -1,0 +1,168 @@
+[13-Jun-2018 01:53:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/pagador.scriptdemo.website/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/config/database.php on line 16
+[13-Jun-2018 01:53:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/pagador.scriptdemo.website/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/config/database.php on line 16
+[13-Jul-2018 16:20:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/pagador.scriptdemo.website/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/config/mail.php on line 19
+[13-Jul-2018 18:25:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/pagador.scriptdemo.website/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/config/broadcasting.php on line 18
+[14-Jul-2018 01:13:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/pagador.scriptdemo.website/config/voyager.php:222
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/config/voyager.php on line 222
+[14-Jul-2018 16:36:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/pagador.scriptdemo.website/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/config/queue.php on line 16
+[15-Jul-2018 00:04:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/pagador.scriptdemo.website/config/voyager.php:222
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/config/voyager.php on line 222
+[15-Jul-2018 02:52:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/scrizrea/pagador.scriptdemo.website/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/config/view.php on line 17
+[15-Jul-2018 03:45:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/pagador.scriptdemo.website/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/config/session.php on line 19
+[15-Jul-2018 03:56:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/pagador.scriptdemo.website/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/config/hashing.php on line 32
+[15-Jul-2018 04:38:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/pagador.scriptdemo.website/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/config/database.php on line 16
+[15-Jul-2018 09:09:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/pagador.scriptdemo.website/config/logging.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/config/logging.php on line 18
+[15-Jul-2018 10:07:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/pagador.scriptdemo.website/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/config/queue.php on line 16
+[15-Jul-2018 10:38:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/pagador.scriptdemo.website/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/config/session.php on line 19
+[17-Jul-2018 10:19:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/pagador.scriptdemo.website/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/config/broadcasting.php on line 18
+[01-Aug-2018 06:41:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/pagador.scriptdemo.website/config/cookie-consent.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/config/cookie-consent.php on line 8
+[01-Aug-2018 16:39:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/pagador.scriptdemo.website/config/cookie-consent.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/config/cookie-consent.php on line 8
+[03-Aug-2018 13:41:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/pagador.scriptdemo.website/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/config/filesystems.php on line 16
+[03-Aug-2018 15:42:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/pagador.scriptdemo.website/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/config/services.php on line 18
+[24-Aug-2018 06:02:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/pagador.scriptdemo.website/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/config/mail.php on line 19
+[25-Aug-2018 04:25:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/pagador.scriptdemo.website/config/hooks.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/config/hooks.php on line 5
+[28-Aug-2018 11:00:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/pagador.scriptdemo.website/config/voyager-hooks.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/config/voyager-hooks.php on line 5
+[20-Sep-2018 06:50:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/pagador.scriptdemo.website/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/config/cache.php on line 18
+[20-Feb-2019 10:43:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/dev.scriptdemo.website/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/config/database.php on line 16
+[20-Feb-2019 10:43:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/dev.scriptdemo.website/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/config/database.php on line 16
+[02-Mar-2019 02:26:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/dev.scriptdemo.website/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/config/app.php on line 16
+[02-Mar-2019 02:26:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/dev.scriptdemo.website/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/config/broadcasting.php on line 18
+[02-Mar-2019 02:26:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/dev.scriptdemo.website/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/config/cache.php on line 18
+[02-Mar-2019 02:26:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/dev.scriptdemo.website/config/cookie-consent.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/config/cookie-consent.php on line 8
+[02-Mar-2019 02:26:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/dev.scriptdemo.website/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/config/database.php on line 16
+[02-Mar-2019 02:26:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/dev.scriptdemo.website/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/config/filesystems.php on line 16
+[02-Mar-2019 02:26:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/dev.scriptdemo.website/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/config/hashing.php on line 32
+[02-Mar-2019 02:26:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/dev.scriptdemo.website/config/hooks.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/config/hooks.php on line 5
+[02-Mar-2019 02:26:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/dev.scriptdemo.website/config/logging.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/config/logging.php on line 18
+[02-Mar-2019 02:26:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/dev.scriptdemo.website/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/config/mail.php on line 19
+[02-Mar-2019 02:26:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/dev.scriptdemo.website/config/paypal.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/config/paypal.php on line 10
+[02-Mar-2019 02:26:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/dev.scriptdemo.website/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/config/queue.php on line 16
+[02-Mar-2019 02:26:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/dev.scriptdemo.website/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/config/services.php on line 18
+[02-Mar-2019 02:26:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/dev.scriptdemo.website/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/config/session.php on line 19
+[02-Mar-2019 02:26:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/scrizrea/dev.scriptdemo.website/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/config/view.php on line 17
+[02-Mar-2019 02:26:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/dev.scriptdemo.website/config/voyager-hooks.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/config/voyager-hooks.php on line 5
+[02-Mar-2019 02:26:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/scrizrea/dev.scriptdemo.website/config/voyager.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/config/voyager.php on line 221

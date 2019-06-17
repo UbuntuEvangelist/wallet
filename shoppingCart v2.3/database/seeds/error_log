@@ -1,0 +1,30 @@
+[19-Jun-2018 06:54:35 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/seeds/CategoriesTableSeeder.php on line 11
+[19-Jun-2018 06:54:35 America/New_York] PHP Stack trace:
+[19-Jun-2018 06:54:35 America/New_York] PHP   1. {main}() /home/scrizrea/shoppingcart.scriptdemo.website/database/seeds/CategoriesTableSeeder.php:0
+[07-Jul-2018 22:03:22 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/seeds/DatabaseSeeder.php on line 5
+[07-Jul-2018 22:03:22 America/New_York] PHP Stack trace:
+[07-Jul-2018 22:03:22 America/New_York] PHP   1. {main}() /home/scrizrea/shoppingcart.scriptdemo.website/database/seeds/DatabaseSeeder.php:0
+[09-Jul-2018 16:46:52 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/seeds/UsersTableSeeder.php on line 7
+[09-Jul-2018 16:46:52 America/New_York] PHP Stack trace:
+[09-Jul-2018 16:46:52 America/New_York] PHP   1. {main}() /home/scrizrea/shoppingcart.scriptdemo.website/database/seeds/UsersTableSeeder.php:0
+[20-Aug-2018 16:08:56 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/seeds/CategoriesTableSeeder.php on line 11
+[20-Aug-2018 19:52:32 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/seeds/PermissionsTableSeeder.php on line 6
+[21-Aug-2018 17:38:03 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/seeds/MenusTableSeeder.php on line 6
+[21-Aug-2018 22:38:09 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/seeds/PermissionRoleTableSeeder.php on line 7
+[22-Aug-2018 11:54:16 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/seeds/VoyagerDatabaseSeeder.php on line 6
+[22-Aug-2018 18:53:27 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/seeds/MenuItemsTableSeeder.php on line 7
+[22-Aug-2018 23:06:06 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/seeds/PostsTableSeeder.php on line 11
+[23-Aug-2018 05:39:25 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/seeds/TranslationsTableSeeder.php on line 10
+[23-Aug-2018 12:54:15 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/seeds/DataRowsTableSeeder.php on line 7
+[23-Aug-2018 17:09:50 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/seeds/VoyagerDummyDatabaseSeeder.php on line 6
+[24-Aug-2018 10:38:58 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/seeds/DataTypesTableSeeder.php on line 6
+[24-Aug-2018 14:38:00 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/seeds/RolesTableSeeder.php on line 6
+[25-Aug-2018 04:39:26 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/seeds/PagesTableSeeder.php on line 11
+[25-Aug-2018 16:38:44 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/seeds/SettingsTableSeeder.php on line 6
+[14-Sep-2018 08:57:15 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/seeds/VoyagerDatabaseSeeder.php on line 6
+[14-Sep-2018 09:04:00 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/seeds/TranslationsTableSeeder.php on line 10
+[16-Sep-2018 08:38:11 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/seeds/RolesTableSeeder.php on line 6
+[16-Sep-2018 21:29:21 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/seeds/UsersTableSeeder.php on line 7
+[11-Nov-2018 15:52:04 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/seeds/PermissionsTableSeeder.php on line 6
+[17-Nov-2018 08:28:10 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/seeds/MenusTableSeeder.php on line 6
+[12-Dec-2018 11:27:08 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/seeds/PermissionsTableSeeder.php on line 6

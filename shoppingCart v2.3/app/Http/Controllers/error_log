@@ -1,0 +1,18 @@
+[18-Jun-2018 17:39:37 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/shoppingcart.scriptdemo.website/app/Http/Controllers/CartController.php on line 10
+[18-Jun-2018 17:39:37 America/New_York] PHP Stack trace:
+[18-Jun-2018 17:39:37 America/New_York] PHP   1. {main}() /home/scrizrea/shoppingcart.scriptdemo.website/app/Http/Controllers/CartController.php:0
+[18-Jun-2018 17:39:51 America/New_York] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/scrizrea/shoppingcart.scriptdemo.website/app/Http/Controllers/Controller.php on line 10
+[18-Jun-2018 17:39:51 America/New_York] PHP Stack trace:
+[18-Jun-2018 17:39:51 America/New_York] PHP   1. {main}() /home/scrizrea/shoppingcart.scriptdemo.website/app/Http/Controllers/Controller.php:0
+[18-Jun-2018 17:46:17 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/shoppingcart.scriptdemo.website/app/Http/Controllers/HomeController.php on line 7
+[18-Jun-2018 17:46:17 America/New_York] PHP Stack trace:
+[18-Jun-2018 17:46:17 America/New_York] PHP   1. {main}() /home/scrizrea/shoppingcart.scriptdemo.website/app/Http/Controllers/HomeController.php:0
+[06-Jul-2018 18:34:04 America/New_York] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/scrizrea/shoppingcart.scriptdemo.website/app/Http/Controllers/Controller.php on line 10
+[06-Jul-2018 18:34:04 America/New_York] PHP Stack trace:
+[06-Jul-2018 18:34:04 America/New_York] PHP   1. {main}() /home/scrizrea/shoppingcart.scriptdemo.website/app/Http/Controllers/Controller.php:0
+[06-Jul-2018 18:34:06 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/shoppingcart.scriptdemo.website/app/Http/Controllers/HomeController.php on line 7
+[06-Jul-2018 18:34:06 America/New_York] PHP Stack trace:
+[06-Jul-2018 18:34:06 America/New_York] PHP   1. {main}() /home/scrizrea/shoppingcart.scriptdemo.website/app/Http/Controllers/HomeController.php:0
+[06-Jul-2018 18:34:09 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/shoppingcart.scriptdemo.website/app/Http/Controllers/HomeController.php on line 7
+[06-Jul-2018 18:34:09 America/New_York] PHP Stack trace:
+[06-Jul-2018 18:34:09 America/New_York] PHP   1. {main}() /home/scrizrea/shoppingcart.scriptdemo.website/app/Http/Controllers/HomeController.php:0

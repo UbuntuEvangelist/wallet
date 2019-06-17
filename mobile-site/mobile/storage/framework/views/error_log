@@ -1,0 +1,460 @@
+[02-Mar-2019 02:36:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/0c8f5158df30b2a167af5fb3d528d9d39dcc2ff2.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/0c8f5158df30b2a167af5fb3d528d9d39dcc2ff2.php on line 2
+[02-Mar-2019 02:36:10 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/0d29e96adadb0a2ceb95a9682ee21c188eecb4dc.php on line 3
+[02-Mar-2019 02:36:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/0d29e96adadb0a2ceb95a9682ee21c188eecb4dc.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/0d29e96adadb0a2ceb95a9682ee21c188eecb4dc.php on line 3
+[02-Mar-2019 02:36:10 America/New_York] PHP Notice:  Undefined variable: action in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/0d684ba4c9f57a302bc904a5cee5c4b493393c3d.php on line 1
+[02-Mar-2019 02:36:10 America/New_York] PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/0d684ba4c9f57a302bc904a5cee5c4b493393c3d.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/0d684ba4c9f57a302bc904a5cee5c4b493393c3d.php on line 1
+[02-Mar-2019 02:36:10 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/02e60ed834a3f98cca060222e5489457ec1b52a7.php on line 3
+[02-Mar-2019 02:36:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/02e60ed834a3f98cca060222e5489457ec1b52a7.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/02e60ed834a3f98cca060222e5489457ec1b52a7.php on line 3
+[02-Mar-2019 02:36:10 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/083b5e0a75dcc51b274ca0176ea39db5976738da.php on line 3
+[02-Mar-2019 02:36:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/083b5e0a75dcc51b274ca0176ea39db5976738da.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/083b5e0a75dcc51b274ca0176ea39db5976738da.php on line 3
+[02-Mar-2019 02:36:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/086ecc1f10b7bccdde03167528721819714cdfee.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/086ecc1f10b7bccdde03167528721819714cdfee.php on line 1
+[02-Mar-2019 02:36:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/1e03808051c973b8550c9a081bdc6fffed805286.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/1e03808051c973b8550c9a081bdc6fffed805286.php on line 9
+[02-Mar-2019 02:36:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/1f9480315cc64039d505734b260420599fd75e4c.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/1f9480315cc64039d505734b260420599fd75e4c.php on line 4
+[02-Mar-2019 02:36:12 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/2e45d9cfa808354968643d5dc981d79dc101122b.php on line 2
+[02-Mar-2019 02:36:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function make() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/2e45d9cfa808354968643d5dc981d79dc101122b.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/2e45d9cfa808354968643d5dc981d79dc101122b.php on line 2
+[02-Mar-2019 02:36:12 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/3d9ff42ed967ed3752fee8f9578dbe8d35585cb2.php on line 1
+[02-Mar-2019 02:36:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/3d9ff42ed967ed3752fee8f9578dbe8d35585cb2.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/3d9ff42ed967ed3752fee8f9578dbe8d35585cb2.php on line 1
+[02-Mar-2019 02:36:12 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/4af0cb238daaa3b38942e10a248e799a8f7272a9.php on line 3
+[02-Mar-2019 02:36:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/4af0cb238daaa3b38942e10a248e799a8f7272a9.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/4af0cb238daaa3b38942e10a248e799a8f7272a9.php on line 3
+[02-Mar-2019 02:36:12 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/5e77ec3a00264231d3cfeef1c20f54cd2ff515cb.php on line 1
+[02-Mar-2019 02:36:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/5e77ec3a00264231d3cfeef1c20f54cd2ff515cb.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/5e77ec3a00264231d3cfeef1c20f54cd2ff515cb.php on line 1
+[02-Mar-2019 02:36:12 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/6ca980ef316e1cfc2d73974924ed8fef385c73f5.php on line 3
+[02-Mar-2019 02:36:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/6ca980ef316e1cfc2d73974924ed8fef385c73f5.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/6ca980ef316e1cfc2d73974924ed8fef385c73f5.php on line 3
+[02-Mar-2019 02:36:13 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/7a03f2ef38f2543222a6d054b4165f70dd375d5c.php on line 1
+[02-Mar-2019 02:36:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/7a03f2ef38f2543222a6d054b4165f70dd375d5c.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/7a03f2ef38f2543222a6d054b4165f70dd375d5c.php on line 1
+[02-Mar-2019 02:36:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/7af18f742d57e6775020ddce78efc055ba20d773.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/7af18f742d57e6775020ddce78efc055ba20d773.php on line 4
+[02-Mar-2019 02:36:13 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/7b429f354d43d99a145cea33d13a52b70720d9e5.php on line 3
+[02-Mar-2019 02:36:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/7b429f354d43d99a145cea33d13a52b70720d9e5.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/7b429f354d43d99a145cea33d13a52b70720d9e5.php on line 3
+[02-Mar-2019 02:36:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/7d26b881caa48dc745fc0e58845719cf43822907.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/7d26b881caa48dc745fc0e58845719cf43822907.php on line 10
+[02-Mar-2019 02:36:14 America/New_York] PHP Notice:  Undefined variable: relationship in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/8fb08393eba8d600b202ed8f174db4cd2b1e6609.php on line 1
+[02-Mar-2019 02:36:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/8fb08393eba8d600b202ed8f174db4cd2b1e6609.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/8fb08393eba8d600b202ed8f174db4cd2b1e6609.php on line 4
+[02-Mar-2019 02:36:14 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/9e1864947594bdca3d02daf49b632f68c1bfd79a.php on line 3
+[02-Mar-2019 02:36:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/9e1864947594bdca3d02daf49b632f68c1bfd79a.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/9e1864947594bdca3d02daf49b632f68c1bfd79a.php on line 3
+[02-Mar-2019 02:36:14 America/New_York] PHP Notice:  Undefined variable: deposit in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/11e92e2f5822f7000a5c0247eb467307e47db517.php on line 1
+[02-Mar-2019 02:36:14 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/11e92e2f5822f7000a5c0247eb467307e47db517.php on line 1
+[02-Mar-2019 02:36:14 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/11e92e2f5822f7000a5c0247eb467307e47db517.php on line 1
+[02-Mar-2019 02:36:14 America/New_York] PHP Notice:  Undefined variable: deposit in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/11e92e2f5822f7000a5c0247eb467307e47db517.php on line 3
+[02-Mar-2019 02:36:14 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/11e92e2f5822f7000a5c0247eb467307e47db517.php on line 3
+[02-Mar-2019 02:36:14 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/11e92e2f5822f7000a5c0247eb467307e47db517.php on line 3
+[02-Mar-2019 02:36:14 America/New_York] PHP Notice:  Undefined variable: deposit in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/11e92e2f5822f7000a5c0247eb467307e47db517.php on line 5
+[02-Mar-2019 02:36:14 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/11e92e2f5822f7000a5c0247eb467307e47db517.php on line 5
+[02-Mar-2019 02:36:14 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/11e92e2f5822f7000a5c0247eb467307e47db517.php on line 5
+[02-Mar-2019 02:36:14 America/New_York] PHP Notice:  Undefined variable: deposit in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/11e92e2f5822f7000a5c0247eb467307e47db517.php on line 7
+[02-Mar-2019 02:36:14 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/11e92e2f5822f7000a5c0247eb467307e47db517.php on line 7
+[02-Mar-2019 02:36:14 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/11e92e2f5822f7000a5c0247eb467307e47db517.php on line 7
+[02-Mar-2019 02:36:14 America/New_York] PHP Notice:  Undefined variable: deposit in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/11e92e2f5822f7000a5c0247eb467307e47db517.php on line 1
+[02-Mar-2019 02:36:14 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/11e92e2f5822f7000a5c0247eb467307e47db517.php on line 1
+[02-Mar-2019 02:36:14 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/11e92e2f5822f7000a5c0247eb467307e47db517.php on line 1
+[02-Mar-2019 02:36:14 America/New_York] PHP Notice:  Undefined variable: deposit in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/11e92e2f5822f7000a5c0247eb467307e47db517.php on line 3
+[02-Mar-2019 02:36:14 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/11e92e2f5822f7000a5c0247eb467307e47db517.php on line 3
+[02-Mar-2019 02:36:14 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/11e92e2f5822f7000a5c0247eb467307e47db517.php on line 3
+[02-Mar-2019 02:36:14 America/New_York] PHP Notice:  Undefined variable: deposit in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/11e92e2f5822f7000a5c0247eb467307e47db517.php on line 5
+[02-Mar-2019 02:36:14 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/11e92e2f5822f7000a5c0247eb467307e47db517.php on line 5
+[02-Mar-2019 02:36:14 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/11e92e2f5822f7000a5c0247eb467307e47db517.php on line 5
+[02-Mar-2019 02:36:14 America/New_York] PHP Notice:  Undefined variable: deposit in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/11e92e2f5822f7000a5c0247eb467307e47db517.php on line 7
+[02-Mar-2019 02:36:14 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/11e92e2f5822f7000a5c0247eb467307e47db517.php on line 7
+[02-Mar-2019 02:36:14 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/11e92e2f5822f7000a5c0247eb467307e47db517.php on line 7
+[02-Mar-2019 02:36:14 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/12fc3380bb3169e9527babda6cc491a77df171b2.php on line 1
+[02-Mar-2019 02:36:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/12fc3380bb3169e9527babda6cc491a77df171b2.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/12fc3380bb3169e9527babda6cc491a77df171b2.php on line 1
+[02-Mar-2019 02:36:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/17ef85ac0487d2587e748c34a3bf57a24cc90493.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/17ef85ac0487d2587e748c34a3bf57a24cc90493.php on line 2
+[02-Mar-2019 02:36:15 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/22e1c2369e0f6b7901f59f33daaa837617551482.php on line 3
+[02-Mar-2019 02:36:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/22e1c2369e0f6b7901f59f33daaa837617551482.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/22e1c2369e0f6b7901f59f33daaa837617551482.php on line 3
+[02-Mar-2019 02:36:15 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/31a527d1540ba80f8126c738b4e8f7aebd291438.php on line 7
+[02-Mar-2019 02:36:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/31a527d1540ba80f8126c738b4e8f7aebd291438.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/31a527d1540ba80f8126c738b4e8f7aebd291438.php on line 7
+[02-Mar-2019 02:36:15 America/New_York] PHP Notice:  Undefined variable: paginator in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/31c8e7c4d93c435142a54230e40c5774afc0e2ed.php on line 1
+[02-Mar-2019 02:36:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function hasPages() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/31c8e7c4d93c435142a54230e40c5774afc0e2ed.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/31c8e7c4d93c435142a54230e40c5774afc0e2ed.php on line 1
+[02-Mar-2019 02:36:16 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/41ca976b5fd357d59d0d8ced1bb94763afc2d8a4.php on line 1
+[02-Mar-2019 02:36:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/41ca976b5fd357d59d0d8ced1bb94763afc2d8a4.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/41ca976b5fd357d59d0d8ced1bb94763afc2d8a4.php on line 1
+[02-Mar-2019 02:36:16 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/54bc35f34db23480ee9c67f65c4728879abc217e.php on line 1
+[02-Mar-2019 02:36:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/54bc35f34db23480ee9c67f65c4728879abc217e.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/54bc35f34db23480ee9c67f65c4728879abc217e.php on line 1
+[02-Mar-2019 02:36:16 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/75c17f247c6ad31499047c63916450c88192c59d.php on line 5
+[02-Mar-2019 02:36:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function make() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/75c17f247c6ad31499047c63916450c88192c59d.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/75c17f247c6ad31499047c63916450c88192c59d.php on line 5
+[02-Mar-2019 02:36:16 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/85edb584d766b25b451237d744d650156cad912e.php on line 3
+[02-Mar-2019 02:36:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/85edb584d766b25b451237d744d650156cad912e.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/85edb584d766b25b451237d744d650156cad912e.php on line 3
+[02-Mar-2019 02:36:17 America/New_York] PHP Notice:  Undefined variable: transactions in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/92d8acd61dc5e2adb684ed262beb5dde32e4bfaf.php on line 1
+[02-Mar-2019 02:36:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function total() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/92d8acd61dc5e2adb684ed262beb5dde32e4bfaf.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/92d8acd61dc5e2adb684ed262beb5dde32e4bfaf.php on line 1
+[02-Mar-2019 02:36:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function session() in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/94e028cea412599d1d128ff949fb47f686d5ce51.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/94e028cea412599d1d128ff949fb47f686d5ce51.php on line 3
+[02-Mar-2019 02:36:17 America/New_York] PHP Notice:  Undefined variable: cookieConsentConfig in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/184ebadc2ae282906705ee41f739ae2bf337ee19.php on line 1
+[02-Mar-2019 02:36:17 America/New_York] PHP Notice:  Undefined variable: cookieConsentConfig in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/184ebadc2ae282906705ee41f739ae2bf337ee19.php on line 1
+[02-Mar-2019 02:36:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/204f314620d56ae660ffbb2ec6978c201b6b434e.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/204f314620d56ae660ffbb2ec6978c201b6b434e.php on line 9
+[02-Mar-2019 02:36:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Arrilot\Widgets\Facade' not found in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/261cadfeeee942e7991ab1bf8dc5e9e6b443f9b1.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/261cadfeeee942e7991ab1bf8dc5e9e6b443f9b1.php on line 2
+[02-Mar-2019 02:36:18 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/345fbe14510353a223947de323c9e35ccf0692e3.php on line 3
+[02-Mar-2019 02:36:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/345fbe14510353a223947de323c9e35ccf0692e3.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/345fbe14510353a223947de323c9e35ccf0692e3.php on line 3
+[02-Mar-2019 02:36:18 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/365e64bd60bdaeae01ca4669ed2c3665ac73d3a5.php on line 3
+[02-Mar-2019 02:36:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/365e64bd60bdaeae01ca4669ed2c3665ac73d3a5.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/365e64bd60bdaeae01ca4669ed2c3665ac73d3a5.php on line 3
+[02-Mar-2019 02:36:18 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/479e7b2751167a201a62a3520b7cc14c972e9f02.php on line 3
+[02-Mar-2019 02:36:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/479e7b2751167a201a62a3520b7cc14c972e9f02.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/479e7b2751167a201a62a3520b7cc14c972e9f02.php on line 3
+[02-Mar-2019 02:36:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/564cc62d111374a7c7cf29650ef829bb45bd873f.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/564cc62d111374a7c7cf29650ef829bb45bd873f.php on line 6
+[02-Mar-2019 02:36:19 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/628dd2aca12b3e0e0041f26f579f7bcc8c031409.php on line 3
+[02-Mar-2019 02:36:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/628dd2aca12b3e0e0041f26f579f7bcc8c031409.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/628dd2aca12b3e0e0041f26f579f7bcc8c031409.php on line 3
+[02-Mar-2019 02:36:19 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/880fd002432c3547ad55b2c2150d3ca9855349ab.php on line 1
+[02-Mar-2019 02:36:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/880fd002432c3547ad55b2c2150d3ca9855349ab.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/880fd002432c3547ad55b2c2150d3ca9855349ab.php on line 1
+[02-Mar-2019 02:36:19 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/4139e08b74cf78fe3a34a3c3094536f4375b5d47.php on line 3
+[02-Mar-2019 02:36:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/4139e08b74cf78fe3a34a3c3094536f4375b5d47.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/4139e08b74cf78fe3a34a3c3094536f4375b5d47.php on line 3
+[02-Mar-2019 02:36:20 America/New_York] PHP Notice:  Undefined variable: transactions_to_confirm in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/6752e1e1dc4334507ef96072b9a5d6c2715f883e.php on line 2
+[02-Mar-2019 02:36:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function currentPage() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/6752e1e1dc4334507ef96072b9a5d6c2715f883e.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/6752e1e1dc4334507ef96072b9a5d6c2715f883e.php on line 2
+[02-Mar-2019 02:36:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/8654fcb1e1e9dbec303294d2efe8f3d3a97afb76.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/8654fcb1e1e9dbec303294d2efe8f3d3a97afb76.php on line 10
+[02-Mar-2019 02:36:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/8769f89dff1f93897c9fd3367586fafaa0834661.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/8769f89dff1f93897c9fd3367586fafaa0834661.php on line 7
+[02-Mar-2019 02:36:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function auth() in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/34605ae9bb167c5f19494eed42cfae4bd3de3997.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/34605ae9bb167c5f19494eed42cfae4bd3de3997.php on line 7
+[02-Mar-2019 02:36:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/64732eeb3dacbbffe2d831aca27780850de8c60d.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/64732eeb3dacbbffe2d831aca27780850de8c60d.php on line 2
+[02-Mar-2019 02:36:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/3621959a95ee1d3b718844160979ed534529d78e.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/3621959a95ee1d3b718844160979ed534529d78e.php on line 6
+[02-Mar-2019 02:36:22 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/9883167a6faf965c2a3feebb8583bb1354f471c6.php on line 1
+[02-Mar-2019 02:36:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/9883167a6faf965c2a3feebb8583bb1354f471c6.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/9883167a6faf965c2a3feebb8583bb1354f471c6.php on line 1
+[02-Mar-2019 02:36:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/a8c63f9cef5ba05625e06c6d9d0c4908fb046f5e.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/a8c63f9cef5ba05625e06c6d9d0c4908fb046f5e.php on line 10
+[02-Mar-2019 02:36:23 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/a5024914931e61aa378ed86b07f08b835c147019.php on line 4
+[02-Mar-2019 02:36:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/a5024914931e61aa378ed86b07f08b835c147019.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/a5024914931e61aa378ed86b07f08b835c147019.php on line 4
+[02-Mar-2019 02:36:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/adde642600efb0a9176d5ad98a14c2b879574d19.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/adde642600efb0a9176d5ad98a14c2b879574d19.php on line 3
+[02-Mar-2019 02:36:23 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b7d36c8d1912f42ee6ab3be7b73fa50f557b3fa7.php on line 3
+[02-Mar-2019 02:36:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b7d36c8d1912f42ee6ab3be7b73fa50f557b3fa7.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b7d36c8d1912f42ee6ab3be7b73fa50f557b3fa7.php on line 3
+[02-Mar-2019 02:36:23 America/New_York] PHP Notice:  Undefined variable: transaction in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 1
+[02-Mar-2019 02:36:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 1
+[02-Mar-2019 02:36:23 America/New_York] PHP Notice:  Undefined variable: transaction in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 5
+[02-Mar-2019 02:36:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 5
+[02-Mar-2019 02:36:23 America/New_York] PHP Notice:  Undefined variable: transaction in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 9
+[02-Mar-2019 02:36:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 9
+[02-Mar-2019 02:36:23 America/New_York] PHP Notice:  Undefined variable: transaction in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 13
+[02-Mar-2019 02:36:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 13
+[02-Mar-2019 02:36:23 America/New_York] PHP Notice:  Undefined variable: transaction in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 17
+[02-Mar-2019 02:36:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 17
+[02-Mar-2019 02:36:23 America/New_York] PHP Notice:  Undefined variable: transaction in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 21
+[02-Mar-2019 02:36:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 21
+[02-Mar-2019 02:36:23 America/New_York] PHP Notice:  Undefined variable: transaction in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 25
+[02-Mar-2019 02:36:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 25
+[02-Mar-2019 02:36:23 America/New_York] PHP Notice:  Undefined variable: transaction in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 29
+[02-Mar-2019 02:36:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 29
+[02-Mar-2019 02:36:23 America/New_York] PHP Notice:  Undefined variable: transaction in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 33
+[02-Mar-2019 02:36:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 33
+[02-Mar-2019 02:36:23 America/New_York] PHP Notice:  Undefined variable: transaction in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 37
+[02-Mar-2019 02:36:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 37
+[02-Mar-2019 02:36:24 America/New_York] PHP Notice:  Undefined variable: transaction in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 1
+[02-Mar-2019 02:36:24 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 1
+[02-Mar-2019 02:36:24 America/New_York] PHP Notice:  Undefined variable: transaction in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 5
+[02-Mar-2019 02:36:24 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 5
+[02-Mar-2019 02:36:24 America/New_York] PHP Notice:  Undefined variable: transaction in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 9
+[02-Mar-2019 02:36:24 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 9
+[02-Mar-2019 02:36:24 America/New_York] PHP Notice:  Undefined variable: transaction in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 13
+[02-Mar-2019 02:36:24 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 13
+[02-Mar-2019 02:36:24 America/New_York] PHP Notice:  Undefined variable: transaction in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 17
+[02-Mar-2019 02:36:24 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 17
+[02-Mar-2019 02:36:24 America/New_York] PHP Notice:  Undefined variable: transaction in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 21
+[02-Mar-2019 02:36:24 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 21
+[02-Mar-2019 02:36:24 America/New_York] PHP Notice:  Undefined variable: transaction in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 25
+[02-Mar-2019 02:36:24 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 25
+[02-Mar-2019 02:36:24 America/New_York] PHP Notice:  Undefined variable: transaction in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 29
+[02-Mar-2019 02:36:24 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 29
+[02-Mar-2019 02:36:24 America/New_York] PHP Notice:  Undefined variable: transaction in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 33
+[02-Mar-2019 02:36:24 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 33
+[02-Mar-2019 02:36:24 America/New_York] PHP Notice:  Undefined variable: transaction in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 37
+[02-Mar-2019 02:36:24 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/b8a26f055fbdc585e12ccc46abb160a7c122145f.php on line 37
+[02-Mar-2019 02:36:24 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/bc7e82b80d519fb12d8a8666f06520d6eaa91443.php on line 1
+[02-Mar-2019 02:36:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/bc7e82b80d519fb12d8a8666f06520d6eaa91443.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/bc7e82b80d519fb12d8a8666f06520d6eaa91443.php on line 1
+[02-Mar-2019 02:36:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function is_field_translatable() in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/c44aa4166daff25e8ed76f32c30fcda7f5d0e3aa.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/c44aa4166daff25e8ed76f32c30fcda7f5d0e3aa.php on line 1
+[02-Mar-2019 02:36:25 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/c286a39586fb7caf48fbd886851434e96632a1ad.php on line 3
+[02-Mar-2019 02:36:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/c286a39586fb7caf48fbd886851434e96632a1ad.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/c286a39586fb7caf48fbd886851434e96632a1ad.php on line 3
+[02-Mar-2019 02:36:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Voyager' not found in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/c873af0722eb272b852ae348e3047519de0be590.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/c873af0722eb272b852ae348e3047519de0be590.php on line 4
+[02-Mar-2019 02:36:25 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/c1676473d1b046787373fd70cf5126acdea27597.php on line 1
+[02-Mar-2019 02:36:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/c1676473d1b046787373fd70cf5126acdea27597.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/c1676473d1b046787373fd70cf5126acdea27597.php on line 1
+[02-Mar-2019 02:36:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/cc683c3efde62fc8524a26475d3f7b059b195555.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/cc683c3efde62fc8524a26475d3f7b059b195555.php on line 2
+[02-Mar-2019 02:36:26 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/cde9d5510573cde87798d758f1ae8b2c05b9c73b.php on line 3
+[02-Mar-2019 02:36:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/cde9d5510573cde87798d758f1ae8b2c05b9c73b.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/cde9d5510573cde87798d758f1ae8b2c05b9c73b.php on line 3
+[02-Mar-2019 02:36:26 America/New_York] PHP Notice:  Undefined variable: alerts in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/cfb17d64ee8e4ac2ce31f58166f5d8c02795f19b.php on line 2
+[02-Mar-2019 02:36:26 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/cfb17d64ee8e4ac2ce31f58166f5d8c02795f19b.php on line 2
+[02-Mar-2019 02:36:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function addLoop() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/cfb17d64ee8e4ac2ce31f58166f5d8c02795f19b.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/cfb17d64ee8e4ac2ce31f58166f5d8c02795f19b.php on line 2
+[02-Mar-2019 02:36:26 America/New_York] PHP Notice:  Undefined variable: transaction in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/d065a7f6fe9257e29ab1a6410da457fa489aa806.php on line 1
+[02-Mar-2019 02:36:26 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/d065a7f6fe9257e29ab1a6410da457fa489aa806.php on line 1
+[02-Mar-2019 02:36:26 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/d065a7f6fe9257e29ab1a6410da457fa489aa806.php on line 1
+[02-Mar-2019 02:36:26 America/New_York] PHP Notice:  Undefined variable: transaction in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/d065a7f6fe9257e29ab1a6410da457fa489aa806.php on line 3
+[02-Mar-2019 02:36:26 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/d065a7f6fe9257e29ab1a6410da457fa489aa806.php on line 3
+[02-Mar-2019 02:36:26 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/d065a7f6fe9257e29ab1a6410da457fa489aa806.php on line 3
+[02-Mar-2019 02:36:26 America/New_York] PHP Notice:  Undefined variable: transaction in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/d065a7f6fe9257e29ab1a6410da457fa489aa806.php on line 5
+[02-Mar-2019 02:36:26 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/d065a7f6fe9257e29ab1a6410da457fa489aa806.php on line 5
+[02-Mar-2019 02:36:26 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/d065a7f6fe9257e29ab1a6410da457fa489aa806.php on line 5
+[02-Mar-2019 02:36:26 America/New_York] PHP Notice:  Undefined variable: transaction in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/d065a7f6fe9257e29ab1a6410da457fa489aa806.php on line 7
+[02-Mar-2019 02:36:26 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/d065a7f6fe9257e29ab1a6410da457fa489aa806.php on line 7
+[02-Mar-2019 02:36:26 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/d065a7f6fe9257e29ab1a6410da457fa489aa806.php on line 7
+[02-Mar-2019 02:36:26 America/New_York] PHP Notice:  Undefined variable: transaction in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/d065a7f6fe9257e29ab1a6410da457fa489aa806.php on line 1
+[02-Mar-2019 02:36:26 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/d065a7f6fe9257e29ab1a6410da457fa489aa806.php on line 1
+[02-Mar-2019 02:36:26 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/d065a7f6fe9257e29ab1a6410da457fa489aa806.php on line 1
+[02-Mar-2019 02:36:26 America/New_York] PHP Notice:  Undefined variable: transaction in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/d065a7f6fe9257e29ab1a6410da457fa489aa806.php on line 3
+[02-Mar-2019 02:36:26 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/d065a7f6fe9257e29ab1a6410da457fa489aa806.php on line 3
+[02-Mar-2019 02:36:26 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/d065a7f6fe9257e29ab1a6410da457fa489aa806.php on line 3
+[02-Mar-2019 02:36:26 America/New_York] PHP Notice:  Undefined variable: transaction in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/d065a7f6fe9257e29ab1a6410da457fa489aa806.php on line 5
+[02-Mar-2019 02:36:26 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/d065a7f6fe9257e29ab1a6410da457fa489aa806.php on line 5
+[02-Mar-2019 02:36:26 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/d065a7f6fe9257e29ab1a6410da457fa489aa806.php on line 5
+[02-Mar-2019 02:36:26 America/New_York] PHP Notice:  Undefined variable: transaction in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/d065a7f6fe9257e29ab1a6410da457fa489aa806.php on line 7
+[02-Mar-2019 02:36:26 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/d065a7f6fe9257e29ab1a6410da457fa489aa806.php on line 7
+[02-Mar-2019 02:36:26 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/d065a7f6fe9257e29ab1a6410da457fa489aa806.php on line 7
+[02-Mar-2019 02:36:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/d5e4486e470b36c295237007ecf46deb180407d1.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/d5e4486e470b36c295237007ecf46deb180407d1.php on line 1
+[02-Mar-2019 02:36:27 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/d458c7f4b6fddbd02955f932e3c34375d17b6e77.php on line 1
+[02-Mar-2019 02:36:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/d458c7f4b6fddbd02955f932e3c34375d17b6e77.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/d458c7f4b6fddbd02955f932e3c34375d17b6e77.php on line 1
+[02-Mar-2019 02:36:27 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/da94dcbd2b93ef8553c4f1d839ed267752bb0260.php on line 3
+[02-Mar-2019 02:36:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/da94dcbd2b93ef8553c4f1d839ed267752bb0260.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/da94dcbd2b93ef8553c4f1d839ed267752bb0260.php on line 3
+[02-Mar-2019 02:36:27 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/dadcc5023eb8d0209abb4e48664ad6decb55692b.php on line 1
+[02-Mar-2019 02:36:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/dadcc5023eb8d0209abb4e48664ad6decb55692b.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/dadcc5023eb8d0209abb4e48664ad6decb55692b.php on line 1
+[02-Mar-2019 02:36:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/df4cb6d26e56db84e7e175ea86025a005e71efd1.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/df4cb6d26e56db84e7e175ea86025a005e71efd1.php on line 5
+[02-Mar-2019 02:36:28 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e0aa9942a83aa77377a29dd8e3e21fa867834e21.php on line 1
+[02-Mar-2019 02:36:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e0aa9942a83aa77377a29dd8e3e21fa867834e21.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e0aa9942a83aa77377a29dd8e3e21fa867834e21.php on line 1
+[02-Mar-2019 02:36:28 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e7e7ef867036ed2584394e42ce014e1d2b8707ff.php on line 3
+[02-Mar-2019 02:36:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e7e7ef867036ed2584394e42ce014e1d2b8707ff.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e7e7ef867036ed2584394e42ce014e1d2b8707ff.php on line 3
+[02-Mar-2019 02:36:28 America/New_York] PHP Notice:  Undefined variable: withdrawal in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e21cd337a8f5b0047b49c75712e48867a8e16beb.php on line 1
+[02-Mar-2019 02:36:28 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e21cd337a8f5b0047b49c75712e48867a8e16beb.php on line 1
+[02-Mar-2019 02:36:28 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e21cd337a8f5b0047b49c75712e48867a8e16beb.php on line 1
+[02-Mar-2019 02:36:28 America/New_York] PHP Notice:  Undefined variable: withdrawal in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e21cd337a8f5b0047b49c75712e48867a8e16beb.php on line 3
+[02-Mar-2019 02:36:28 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e21cd337a8f5b0047b49c75712e48867a8e16beb.php on line 3
+[02-Mar-2019 02:36:28 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e21cd337a8f5b0047b49c75712e48867a8e16beb.php on line 3
+[02-Mar-2019 02:36:28 America/New_York] PHP Notice:  Undefined variable: withdrawal in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e21cd337a8f5b0047b49c75712e48867a8e16beb.php on line 5
+[02-Mar-2019 02:36:28 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e21cd337a8f5b0047b49c75712e48867a8e16beb.php on line 5
+[02-Mar-2019 02:36:28 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e21cd337a8f5b0047b49c75712e48867a8e16beb.php on line 5
+[02-Mar-2019 02:36:28 America/New_York] PHP Notice:  Undefined variable: withdrawal in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e21cd337a8f5b0047b49c75712e48867a8e16beb.php on line 7
+[02-Mar-2019 02:36:28 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e21cd337a8f5b0047b49c75712e48867a8e16beb.php on line 7
+[02-Mar-2019 02:36:28 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e21cd337a8f5b0047b49c75712e48867a8e16beb.php on line 7
+[02-Mar-2019 02:36:28 America/New_York] PHP Notice:  Undefined variable: withdrawal in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e21cd337a8f5b0047b49c75712e48867a8e16beb.php on line 1
+[02-Mar-2019 02:36:28 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e21cd337a8f5b0047b49c75712e48867a8e16beb.php on line 1
+[02-Mar-2019 02:36:28 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e21cd337a8f5b0047b49c75712e48867a8e16beb.php on line 1
+[02-Mar-2019 02:36:28 America/New_York] PHP Notice:  Undefined variable: withdrawal in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e21cd337a8f5b0047b49c75712e48867a8e16beb.php on line 3
+[02-Mar-2019 02:36:28 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e21cd337a8f5b0047b49c75712e48867a8e16beb.php on line 3
+[02-Mar-2019 02:36:28 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e21cd337a8f5b0047b49c75712e48867a8e16beb.php on line 3
+[02-Mar-2019 02:36:28 America/New_York] PHP Notice:  Undefined variable: withdrawal in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e21cd337a8f5b0047b49c75712e48867a8e16beb.php on line 5
+[02-Mar-2019 02:36:28 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e21cd337a8f5b0047b49c75712e48867a8e16beb.php on line 5
+[02-Mar-2019 02:36:28 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e21cd337a8f5b0047b49c75712e48867a8e16beb.php on line 5
+[02-Mar-2019 02:36:28 America/New_York] PHP Notice:  Undefined variable: withdrawal in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e21cd337a8f5b0047b49c75712e48867a8e16beb.php on line 7
+[02-Mar-2019 02:36:28 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e21cd337a8f5b0047b49c75712e48867a8e16beb.php on line 7
+[02-Mar-2019 02:36:28 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e21cd337a8f5b0047b49c75712e48867a8e16beb.php on line 7
+[02-Mar-2019 02:36:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e4289f5861ac715465bfd948d89e4892ae9e8397.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e4289f5861ac715465bfd948d89e4892ae9e8397.php on line 2
+[02-Mar-2019 02:36:29 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e47325077220e25fad140801607c6f3f25c99ed6.php on line 1
+[02-Mar-2019 02:36:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e47325077220e25fad140801607c6f3f25c99ed6.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/e47325077220e25fad140801607c6f3f25c99ed6.php on line 1
+[02-Mar-2019 02:36:29 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/ea4c90c8cf21ea5ae77aa7934842c073463dcb27.php on line 1
+[02-Mar-2019 02:36:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/ea4c90c8cf21ea5ae77aa7934842c073463dcb27.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/ea4c90c8cf21ea5ae77aa7934842c073463dcb27.php on line 1
+[02-Mar-2019 02:36:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/f08617c8aa75a03f2eda9afe950ad498eb48f065.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/f08617c8aa75a03f2eda9afe950ad498eb48f065.php on line 3
+[02-Mar-2019 02:36:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/f8cd46020cbfa24b73e0d2d0dd9cd77c96fe991b.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/f8cd46020cbfa24b73e0d2d0dd9cd77c96fe991b.php on line 6
+[02-Mar-2019 02:36:30 America/New_York] PHP Notice:  Undefined variable: db in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/f934aa46961e1bc6f89b1e7e074522149b41a0b4.php on line 1
+[02-Mar-2019 02:36:30 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/f934aa46961e1bc6f89b1e7e074522149b41a0b4.php on line 1
+[02-Mar-2019 02:36:30 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/f934aa46961e1bc6f89b1e7e074522149b41a0b4.php on line 4
+[02-Mar-2019 02:36:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/f934aa46961e1bc6f89b1e7e074522149b41a0b4.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/f934aa46961e1bc6f89b1e7e074522149b41a0b4.php on line 4
+[02-Mar-2019 02:36:30 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/f41918772ad6d9b42b849a91ebb1d7732a268156.php on line 3
+[02-Mar-2019 02:36:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function startSection() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/f41918772ad6d9b42b849a91ebb1d7732a268156.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/f41918772ad6d9b42b849a91ebb1d7732a268156.php on line 3
+[02-Mar-2019 02:36:30 America/New_York] PHP Notice:  Undefined variable: __env in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/fb489e2972bf5619bcb29717501dcbc0baa89161.php on line 8
+[02-Mar-2019 02:36:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function yieldContent() on null in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/fb489e2972bf5619bcb29717501dcbc0baa89161.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/fb489e2972bf5619bcb29717501dcbc0baa89161.php on line 8
+[02-Mar-2019 02:36:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function e() in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/fd0598e1de0265717de338aaed4ddf3e46eabe82.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/storage/framework/views/fd0598e1de0265717de338aaed4ddf3e46eabe82.php on line 1

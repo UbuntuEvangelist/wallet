@@ -1,0 +1,12 @@
+[18-Jun-2018 11:03:47 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/scrizrea/shoppingcart.scriptdemo.website/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[18-Jun-2018 11:03:47 America/New_York] PHP Stack trace:
+[18-Jun-2018 11:03:47 America/New_York] PHP   1. {main}() /home/scrizrea/shoppingcart.scriptdemo.website/app/Http/Middleware/VerifyCsrfToken.php:0
+[18-Jun-2018 11:16:06 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/scrizrea/shoppingcart.scriptdemo.website/app/Http/Middleware/TrimStrings.php on line 7
+[18-Jun-2018 11:16:06 America/New_York] PHP Stack trace:
+[18-Jun-2018 11:16:06 America/New_York] PHP   1. {main}() /home/scrizrea/shoppingcart.scriptdemo.website/app/Http/Middleware/TrimStrings.php:0
+[18-Jun-2018 11:16:07 America/New_York] PHP Fatal error:  Class 'Fideloper\Proxy\TrustProxies' not found in /home/scrizrea/shoppingcart.scriptdemo.website/app/Http/Middleware/TrustProxies.php on line 8
+[18-Jun-2018 11:16:07 America/New_York] PHP Stack trace:
+[18-Jun-2018 11:16:07 America/New_York] PHP   1. {main}() /home/scrizrea/shoppingcart.scriptdemo.website/app/Http/Middleware/TrustProxies.php:0
+[18-Jun-2018 11:16:10 America/New_York] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/scrizrea/shoppingcart.scriptdemo.website/app/Http/Middleware/EncryptCookies.php on line 7
+[18-Jun-2018 11:16:10 America/New_York] PHP Stack trace:
+[18-Jun-2018 11:16:10 America/New_York] PHP   1. {main}() /home/scrizrea/shoppingcart.scriptdemo.website/app/Http/Middleware/EncryptCookies.php:0

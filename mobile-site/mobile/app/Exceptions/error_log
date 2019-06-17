@@ -1,0 +1,2 @@
+[25-Sep-2018 16:39:54 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/scrizrea/pagador.scriptdemo.website/app/Exceptions/Handler.php on line 8
+[02-Mar-2019 02:28:06 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/scrizrea/dev.scriptdemo.website/app/Exceptions/Handler.php on line 8

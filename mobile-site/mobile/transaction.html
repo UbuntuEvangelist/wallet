@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Transactions</title>
+	<meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no,  minimal-ui' />
+	<link href="https://unpkg.com/@ionic/core@latest/css/ionic.bundle.css" rel="stylesheet">
+	<script src="https://unpkg.com/@ionic/core@latest/dist/ionic.js"></script>
+	<style>
+		.header-md:after{
+			 background: none; 
+		}
+	</style>
+</head>
+<body style="background-color:#000;">
+<ion-app >
+		<ion-tabs mode="ios">
+		    
+			<ion-tab tab="Transactions">
+				<ion-content>
+				<ion-card  margin-top color="primary">
+    				<ion-card-header>
+    					<ion-card-subtitle>Wallet Balance</ion-card-subtitle>
+    				</ion-card-header>
+    				<ion-item color="primary" lines="none" margin-bottom>
+        				<ion-label float-left>
+        					<ion-card-subtitle  style="color:#73a6ff">Us Dollar</ion-card-subtitle>
+        					<ion-card-title>165.480.00 USD</ion-card-title>
+        				</ion-label>
+        				<ion-button expand="block" size="large" color="secondary" float-right href="http://google.com" mode="ios" style="margin-bottom:0">
+            				<ion-icon name="add-circle" ></ion-icon>
+            			</ion-button>
+    				</ion-item>	
+    			</ion-card>
+				<ion-item-divider>
+					<ion-label>
+						Completed Transactions
+					</ion-label>
+				</ion-item-divider>
+				<ion-list  lines="none">
+					<ion-item style="border-bottom: 1px solid #ddd;">
+					  	<ion-icon name="trending-up" color="primary" style="no-margin" slot="start"></ion-icon>
+					    <ion-label>
+					        <div><h4><strong>Currency Exchange</strong><ion-text float-right color="primary"> 1.000.000.00</ion-text></h4></div>
+					        <div><h6><span>Exchanged To Bitcoin</span> <span style="float:right"> (BTC)</span></h6></div>
+					   </ion-label>
+					</ion-item>
+					<ion-item style="border-bottom: 1px solid #ddd;">
+					  	<ion-icon name="trending-down" slot="start"></ion-icon>
+					    <ion-label>
+					        <div><h4><strong>Currency Exchange</strong><ion-text float-right > 1.000.000.00</ion-text></h4></div>
+					        <div><h6><span>Exchanged To Bitcoin</span> <span style="float:right"> (BTC)</span></h6></div>
+					   </ion-label>
+					</ion-item>
+					<ion-item style="border-bottom: 1px solid #ddd;">
+					  	<ion-icon name="trending-up" slot="start"></ion-icon>
+					    <ion-label><div><strong>Currency Exchange  </strong><span style="float:right">+ 0.16</span></div><div><ion-text mode="ios">Exchanged To Bitcoin</ion-text> <span style="float:right"> (BTC)</span></div></ion-label>
+					</ion-item>
+					<ion-item style="border-bottom: 1px solid #ddd;">
+					  	<ion-icon name="trending-down" slot="start"  ></ion-icon>
+					    <ion-label><div><strong>Currency Exchange  </strong><span style="float:right">- 1,000.00</span></div><div>Exchanged From Bitcoin<span style="float:right"> $</span></div></ion-label>
+					</ion-item>
+					<ion-item style="border-bottom: 1px solid #ddd;">
+					  	<ion-icon name="trending-up" slot="start"></ion-icon>
+					    <ion-label><div><strong>Currency Exchange  </strong><span style="float:right">+ 0.16</span></div><div><ion-text mode="ios">Exchanged To Bitcoin</ion-text> <span style="float:right"> (BTC)</span></div></ion-label>
+					</ion-item>
+					<ion-item style="border-bottom: 1px solid #ddd;">
+					  	<ion-icon name="trending-down" slot="start"  ></ion-icon>
+					    <ion-label><div><strong>Currency Exchange  </strong><span style="float:right">- 1,000.00</span></div><div>Exchanged From Bitcoin<span style="float:right"> $</span></div></ion-label>
+					</ion-item>
+					<ion-item style="border-bottom: 1px solid #ddd;">
+					  	<ion-icon name="trending-up" slot="start"></ion-icon>
+					    <ion-label><div><strong>Currency Exchange  </strong><span style="float:right">+ 0.16</span></div><div><ion-text mode="ios">Exchanged To Bitcoin</ion-text> <span style="float:right"> (BTC)</span></div></ion-label>
+					</ion-item>
+					<ion-item style="border-bottom: 1px solid #ddd;">
+					  	<ion-icon name="trending-down" slot="start"  ></ion-icon>
+					    <ion-label><div><strong>Currency Exchange  </strong><span style="float:right">- 1,000.00</span></div><div>Exchanged From Bitcoin<span style="float:right"> $</span></div></ion-label>
+					</ion-item>
+					<ion-item style="border-bottom: 1px solid #ddd;">
+					  	<ion-icon name="trending-up" slot="start"></ion-icon>
+					    <ion-label><div><strong>Currency Exchange  </strong><span style="float:right">+ 0.16</span></div><div><ion-text mode="ios">Exchanged To Bitcoin</ion-text> <span style="float:right"> (BTC)</span></div></ion-label>
+					</ion-item>
+					<ion-item style="border-bottom: 1px solid #ddd;">
+					  	<ion-icon name="trending-down" slot="start"  ></ion-icon>
+					    <ion-label><div><strong>Currency Exchange  </strong><span style="float:right">- 1,000.00</span></div><div>Exchanged From Bitcoin<span style="float:right"> $</span></div></ion-label>
+					</ion-item>
+				</ion-list>
+				</ion-content>
+			</ion-tab>
+			<ion-tab tab="settings">Settings Content</ion-tab>
+
+			<ion-tab-bar slot="bottom">
+
+				<ion-tab-button tab="Transactions">
+				  <ion-label>Transactions</ion-label>
+				  <ion-icon name="paper"></ion-icon>
+				  <ion-badge>6</ion-badge>
+				</ion-tab-button>
+
+				<ion-tab-button  href="http://google.com" >
+				  <ion-label>Send</ion-label>
+				  <ion-icon name="paper-plane" mode="ios"></ion-icon>
+				</ion-tab-button>
+
+				<ion-tab-button>
+					<ion-label>Exchange</ion-label>
+					<ion-icon name="repeat"></ion-icon>
+				</ion-tab-button>
+
+				<ion-tab-button>
+					<ion-label>Account</ion-label>
+					<ion-icon name="person"></ion-icon>
+				</ion-tab-button>
+
+			</ion-tab-bar>
+		</ion-tabs>
+		
+</ion-app>	
+</body>
+</html>

@@ -1,0 +1,20 @@
+[15-Jul-2018 03:27:41 America/New_York] PHP Notice:  Undefined variable: factory in /home/scrizrea/pagador.scriptdemo.website/database/factories/UserFactory.php on line 16
+[15-Jul-2018 03:27:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/scrizrea/pagador.scriptdemo.website/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/database/factories/UserFactory.php on line 16
+[15-Jul-2018 03:28:29 America/New_York] PHP Notice:  Undefined variable: factory in /home/scrizrea/pagador.scriptdemo.website/database/factories/UserFactory.php on line 16
+[15-Jul-2018 03:28:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/scrizrea/pagador.scriptdemo.website/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/database/factories/UserFactory.php on line 16
+[30-Sep-2018 08:01:44 America/New_York] PHP Notice:  Undefined variable: factory in /home/scrizrea/pagador.scriptdemo.website/database/factories/UserFactory.php on line 16
+[30-Sep-2018 08:01:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/scrizrea/pagador.scriptdemo.website/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/database/factories/UserFactory.php on line 16
+[02-Mar-2019 02:28:40 America/New_York] PHP Notice:  Undefined variable: factory in /home/scrizrea/dev.scriptdemo.website/database/factories/UserFactory.php on line 16
+[02-Mar-2019 02:28:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/scrizrea/dev.scriptdemo.website/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/database/factories/UserFactory.php on line 16

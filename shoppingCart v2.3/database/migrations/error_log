@@ -1,0 +1,31 @@
+[16-Jun-2018 09:45:55 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/migrations/2016_02_15_204651_create_categories_table.php on line 6
+[16-Jun-2018 09:45:55 America/New_York] PHP Stack trace:
+[16-Jun-2018 09:45:55 America/New_York] PHP   1. {main}() /home/scrizrea/shoppingcart.scriptdemo.website/database/migrations/2016_02_15_204651_create_categories_table.php:0
+[16-Jun-2018 09:45:56 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/migrations/2016_01_01_000000_create_posts_table.php on line 6
+[16-Jun-2018 09:45:56 America/New_York] PHP Stack trace:
+[16-Jun-2018 09:45:56 America/New_York] PHP   1. {main}() /home/scrizrea/shoppingcart.scriptdemo.website/database/migrations/2016_01_01_000000_create_posts_table.php:0
+[16-Jun-2018 09:45:57 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/migrations/2016_01_01_000000_create_pages_table.php on line 7
+[16-Jun-2018 09:45:57 America/New_York] PHP Stack trace:
+[16-Jun-2018 09:45:57 America/New_York] PHP   1. {main}() /home/scrizrea/shoppingcart.scriptdemo.website/database/migrations/2016_01_01_000000_create_pages_table.php:0
+[16-Jun-2018 09:45:58 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[16-Jun-2018 09:45:58 America/New_York] PHP Stack trace:
+[16-Jun-2018 09:45:58 America/New_York] PHP   1. {main}() /home/scrizrea/shoppingcart.scriptdemo.website/database/migrations/2014_10_12_100000_create_password_resets_table.php:0
+[16-Jun-2018 09:46:00 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[16-Jun-2018 09:46:00 America/New_York] PHP Stack trace:
+[16-Jun-2018 09:46:00 America/New_York] PHP   1. {main}() /home/scrizrea/shoppingcart.scriptdemo.website/database/migrations/2014_10_12_100000_create_password_resets_table.php:0
+[16-Jun-2018 09:46:01 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[16-Jun-2018 09:46:01 America/New_York] PHP Stack trace:
+[16-Jun-2018 09:46:01 America/New_York] PHP   1. {main}() /home/scrizrea/shoppingcart.scriptdemo.website/database/migrations/2014_10_12_000000_create_users_table.php:0
+[16-Jun-2018 09:46:02 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/migrations/2017_04_11_000000_alter_post_nullable_fields_table.php on line 7
+[16-Jun-2018 09:46:02 America/New_York] PHP Stack trace:
+[16-Jun-2018 09:46:02 America/New_York] PHP   1. {main}() /home/scrizrea/shoppingcart.scriptdemo.website/database/migrations/2017_04_11_000000_alter_post_nullable_fields_table.php:0
+[19-Jun-2018 06:54:32 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[19-Jun-2018 06:54:32 America/New_York] PHP Stack trace:
+[19-Jun-2018 06:54:32 America/New_York] PHP   1. {main}() /home/scrizrea/shoppingcart.scriptdemo.website/database/migrations/2014_10_12_000000_create_users_table.php:0
+[28-Sep-2018 08:17:11 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/migrations/2016_01_01_000000_create_pages_table.php on line 7
+[28-Sep-2018 09:23:29 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/migrations/2016_01_01_000000_create_posts_table.php on line 6
+[28-Sep-2018 09:29:56 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[28-Sep-2018 11:53:06 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/migrations/2016_01_01_000000_create_pages_table.php on line 7
+[07-Oct-2018 17:11:15 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[08-Oct-2018 23:03:43 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/migrations/2016_02_15_204651_create_categories_table.php on line 6
+[09-Oct-2018 11:30:54 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/scrizrea/shoppingcart.scriptdemo.website/database/migrations/2017_04_11_000000_alter_post_nullable_fields_table.php on line 7

@@ -1,0 +1,12 @@
+[14-Aug-2018 10:08:23 America/New_York] PHP Notice:  Undefined variable: product in /home/scrizrea/shoppingcart.scriptdemo.website/resources/views/home.blade.php on line 197
+[14-Aug-2018 10:08:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/shoppingcart.scriptdemo.website/resources/views/home.blade.php on line 197
+[18-Aug-2018 03:52:46 America/New_York] PHP Notice:  Undefined variable: product in /home/scrizrea/shoppingcart.scriptdemo.website/resources/views/product.blade.php on line 13
+[18-Aug-2018 03:52:46 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/shoppingcart.scriptdemo.website/resources/views/product.blade.php on line 13
+[18-Aug-2018 03:52:46 America/New_York] PHP Notice:  Undefined variable: product in /home/scrizrea/shoppingcart.scriptdemo.website/resources/views/product.blade.php on line 101
+[18-Aug-2018 03:52:46 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/shoppingcart.scriptdemo.website/resources/views/product.blade.php on line 101
+[04-Oct-2018 05:54:18 America/New_York] PHP Notice:  Undefined variable: product in /home/scrizrea/shoppingcart.scriptdemo.website/resources/views/home.blade.php on line 197
+[04-Oct-2018 05:54:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/shoppingcart.scriptdemo.website/resources/views/home.blade.php on line 197
+[20-Dec-2018 16:46:33 America/New_York] PHP Notice:  Undefined variable: product in /home/scrizrea/shoppingcart.scriptdemo.website/resources/views/product.blade.php on line 12
+[20-Dec-2018 16:46:33 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/shoppingcart.scriptdemo.website/resources/views/product.blade.php on line 12
+[20-Dec-2018 16:46:33 America/New_York] PHP Notice:  Undefined variable: product in /home/scrizrea/shoppingcart.scriptdemo.website/resources/views/product.blade.php on line 100
+[20-Dec-2018 16:46:33 America/New_York] PHP Notice:  Trying to get property of non-object in /home/scrizrea/shoppingcart.scriptdemo.website/resources/views/product.blade.php on line 100

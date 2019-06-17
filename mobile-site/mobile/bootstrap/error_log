@@ -1,0 +1,24 @@
+[13-Jul-2018 02:55:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/scrizrea/pagador.scriptdemo.website/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/bootstrap/app.php on line 14
+[13-Jul-2018 14:01:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/scrizrea/pagador.scriptdemo.website/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/bootstrap/app.php on line 14
+[14-Jul-2018 07:45:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/scrizrea/pagador.scriptdemo.website/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/bootstrap/app.php on line 14
+[05-Oct-2018 02:04:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/scrizrea/pagador.scriptdemo.website/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/bootstrap/app.php on line 14
+[02-Mar-2019 02:25:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/scrizrea/dev.scriptdemo.website/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/bootstrap/app.php on line 14
+[02-Mar-2019 02:26:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/scrizrea/dev.scriptdemo.website/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/bootstrap/app.php on line 14

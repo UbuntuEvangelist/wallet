@@ -1,0 +1,40 @@
+[18-Jun-2018 00:51:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/scrizrea/shoppingcart.scriptdemo.website/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/routes/channels.php on line 14
+[18-Jun-2018 01:59:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/scrizrea/shoppingcart.scriptdemo.website/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/routes/console.php on line 16
+[18-Jun-2018 15:25:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/scrizrea/shoppingcart.scriptdemo.website/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/routes/web.php on line 14
+[14-Aug-2018 10:24:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/scrizrea/shoppingcart.scriptdemo.website/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/routes/api.php on line 16
+[02-Sep-2018 22:48:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/scrizrea/shoppingcart.scriptdemo.website/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/routes/api.php on line 16
+[10-Nov-2018 10:33:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/scrizrea/shoppingcart.scriptdemo.website/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/routes/channels.php on line 14
+[29-Dec-2018 19:36:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/scrizrea/shoppingcart.scriptdemo.website/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/routes/api.php on line 16
+[30-Dec-2018 06:05:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/scrizrea/shoppingcart.scriptdemo.website/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/routes/console.php on line 16
+[30-Dec-2018 06:18:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/scrizrea/shoppingcart.scriptdemo.website/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/routes/channels.php on line 14
+[30-Dec-2018 17:30:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/scrizrea/shoppingcart.scriptdemo.website/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/shoppingcart.scriptdemo.website/routes/web.php on line 14
